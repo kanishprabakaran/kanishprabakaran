@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kanishswagup@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mfqM3EOWo7voo3Beh4E14fUeZsOuKf9E/view?usp=sharing](https://drive.google.com/file/d/1mfqM3EOWo7voo3Beh4E14fUeZsOuKf9E/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://kanishprabakaran.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
