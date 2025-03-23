@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kanishswagup@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MGkZWD4P0EfNo6AUjK8Wis7ybp_EP6PQ/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
