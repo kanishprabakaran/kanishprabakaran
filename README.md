@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-illustration-download-in-svg-png-gif-file-formats--logo-api-code-javascript-pack-design-development-illustrations-6109661.png">
 
-- 🔭 I’m currently working on **LLM, LangChain, and OpenAI integration.**
+- 🔭 I’m currently working on **LLM, Agentic AI , and OpenAI integration.**
 
 - 🌱 I’m currently learning **Cloud computing, including infrastructure management, deployment strategies, and scalable architecture design.**
 
